@@ -1,2 +1,2 @@
 # Excel_Project_Data_Analytics
- Projects demonstrating my Excel skills
+ Projects I worked on while studying Excel for data analytics.
